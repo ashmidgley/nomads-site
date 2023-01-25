@@ -42,7 +42,7 @@ const TESTIMONIALS = [
     name: "Hien Tran",
     title: "Administrator, Rational Nomads",
     message:
-      "I love being a Nomad. It allows me balance my life with my work. The enormous freedom to pursued my travel passion and to see the world has forever change me as person.",
+      "I love being a Nomad. It allows me to balance my life with my work. The enormous freedom to pursue my travel passion and to see the world has forever change me as person.",
   },
   {
     name: "Lynn Nagel",
