@@ -46,7 +46,7 @@ const CONTENT = [
       paragraphs: [
         "So emerges the modern phenomenon that we’re so familiar with: “The Office”. The crazy situations where office workers battle each other to establish hierarchies, hoard knowledge to make themselves indispensable or bully and belittle each other. Where people spend hours surfing news sites or youtube watching cat videos after clocking in just to bide time until they can clock off.",
         "These outward signs are just the tip of the iceberg. The actual disfunction in modern companies extends far beyond to affect the emotional wellbeing of the employees and their families.",
-        "That’s not to say that all companies are dysfunctional. Some find ways to mitigate the effects and build relatively healthy cultures where people don’t feel miserable. But the general trend is towards dysfunction and inefficiency. The point is that it’s widely recognised that the traditional model of business is rapidly failing in the modern era.s",
+        "That’s not to say that all companies are dysfunctional. Some find ways to mitigate the effects and build relatively healthy cultures where people don’t feel miserable. But the general trend is towards dysfunction and inefficiency. The point is that it’s widely recognised that the traditional model of business is rapidly failing in the modern era.",
       ],
     },
     {

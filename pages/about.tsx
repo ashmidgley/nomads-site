@@ -27,7 +27,7 @@ export default function About() {
         <Text color="black">{"We believe that humans are not machines."}</Text>
         <Text color="black">
           {
-            "To operate at their best, indivudals need to be empowered to make decisions for themselves and feel in control of their own wellbeing."
+            "To operate at their best, individuals need to be empowered to make decisions for themselves and feel in control of their own wellbeing."
           }
         </Text>
         <Text color="black">
