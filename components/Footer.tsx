@@ -149,7 +149,7 @@ export const Footer: FC = () => {
       >
         <Text>{"© Rational Nomads 2022."}</Text>
         <Text ml={{ base: 0, md: 2 }}>
-          {"Images created using Midjourney!"}
+          {"Images created using Midjourney."}
         </Text>
       </Flex>
     </Flex>
